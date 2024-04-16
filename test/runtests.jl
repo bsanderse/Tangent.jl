@@ -8,3 +8,12 @@ using Test
     @test numderiv(g,2) ≈ 11 atol = 1e-8
 
 end
+
+@testset "Tangents" begin
+    f(x) = 2x + 1
+
+    # linear function, so tangent will be same as original function:
+    @test tangent(f,1,1)(2) == f(2)
+    # 
+    # @test 
+end
