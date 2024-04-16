@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = Tangent","category":"page"},{"location":"#Tangent","page":"Home","title":"Tangent","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for Tangent.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [Tangent]","category":"page"},{"location":"#Tangent.numderiv","page":"Home","title":"Tangent.numderiv","text":"numderiv(f,x₀,ϵ=1e-7)\n\nreturns approximate derivative of ``f(x)'' at ``x_0'' using finite difference approximation\n\n```julia-repl julia> f(x) = x^2 '''\n\n\n\n\n\n","category":"function"}]
+}
